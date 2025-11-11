@@ -7,7 +7,7 @@ some stuff
 
 // ==UserScript==
 // @name         Smart Dark Mode (Alt+\ Toggle + Popup)
-// @namespace    https://https://github.com/fxleons/smart-dark-mode/
+// @namespace    https://github.com/fxleons/smart-dark-mode/
 // @version      2.2
 // @description  Dark mode for all sites, toggle with Alt+\, remembers per site, with popup indicator
 // @match        *://*/*
